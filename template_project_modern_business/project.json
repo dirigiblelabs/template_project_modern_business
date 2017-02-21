@@ -1,1 +1,8 @@
-{"guid":"template_project_modern_business","repository":{"type":"git","branch":"master","url":"https://github.com/dirigiblelabs/template_project_modern_business.git"}}
+{
+    "guid":"template_project_modern_business",
+    "repository":{
+        "type":"git",
+        "branch":"master",
+        "url":"https://github.com/dirigiblelabs/template_project_modern_business.git"
+    }
+}
